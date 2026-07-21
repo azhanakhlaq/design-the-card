@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #2b6777;
+}
+
+h1 {
+    text-align: center;
+    text-decoration-line: underline;
+    color: white;
+    margin: 5vh;
+}
+
+h2 {
+    margin-left: 16px;
+}
+
+p {
+    padding: 15px;
+}
+
+.container {
+    background-color: azure;
+    width: 30vw;
+    height: 80vh;
+    border-radius: 15px;
+    margin:auto;
+    box-shadow: 0px 0px 5px 0px black;
+}
+
+.img {
+    width: 100%;
+    padding: 8px;
+    border-radius: 25px;
+}
+
+.wrapper {
+    font-size: 1em;
+    margin: 12px;
+}
+
+.wrapper span {
+    box-shadow: 0px 0px 3px 0px gray;
+    border-radius: 30px;
+    padding: 2px 10px;
+}
+
+.capsule1 {
+    margin: 0px 15px 0px;
+}
+
+.btn-parent {
+    text-align: center;
+}
+
+.btn-child {
+    border-radius: 45px;
+    padding: 15px 25px;
+    margin-bottom: 2%;
+    border: none;
+    color: dodgerblue;
+    margin-top: 4%;
+    font-weight: bold;
+    background-color: rgba(0, 140, 255, 0.205);
+}

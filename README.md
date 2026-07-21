@@ -1,2 +1,2 @@
 # design-the-card
-I Create this Card using HTML &amp; CSS
+I Design this Card using HTML &amp; CSS
